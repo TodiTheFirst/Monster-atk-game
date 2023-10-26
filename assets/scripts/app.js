@@ -16,8 +16,6 @@ const enteredValue = prompt('Maximum life for you and the monster.', '100');
 let chosenMaxLife = parseInt(enteredValue);
 let battleLog = [];
 
-я
-
 let currentMonsterHealth = chosenMaxLife;
 let currentPlayerHealth = chosenMaxLife;
 let hasBonusLife = true;
